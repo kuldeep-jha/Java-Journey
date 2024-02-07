@@ -1,4 +1,4 @@
-class calc
+class Calc
 {
     public int add(int n1, int n2)
     {
@@ -24,14 +24,14 @@ class calc
 
 public class MethodOverload {
     public static void main(String[] args) {
-        calc obj = new calc();
-        int result = obj.add(4 , 3);
-        System.out.println(result);
+//        calc obj = new calc();
+//        int result = obj.add(4 , 3);
+//        System.out.println(result);
 
-        double return3 = obj.add(3.3,2.12);
-        System.out.println(return3);
+//        double return3 = obj.add((int) 3.3, (int) 2.12);
+//        System.out.println(return3);
 
-        double return4 = obj.add(2.4,2.02);
-        System.out.println(return4);
+//        double return4 = obj.add((int) 2.4, (int) 2.02);
+//        System.out.println(return4);
     }
 }
