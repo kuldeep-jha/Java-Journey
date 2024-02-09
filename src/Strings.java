@@ -11,7 +11,7 @@ public class Strings {
         System.out.println(brand1);
 
 
-//        diffrent ways to create strings
+//        different ways to create strings
         String str = "pw";
 
         String str1 = new String("pw");

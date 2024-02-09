@@ -9,5 +9,6 @@ public class InbuiltStringMethods {
 //        to print last "s" index
         System.out.println(str.lastIndexOf("s")); // 8
 
+
     }
 }

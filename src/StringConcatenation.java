@@ -32,7 +32,5 @@ public class StringConcatenation {
 
 //        with concat we could only add one object but with
 //        + operator more than 2 objs can be added.
-
-
     }
 }
