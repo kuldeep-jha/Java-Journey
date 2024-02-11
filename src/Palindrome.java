@@ -18,5 +18,7 @@ public class Palindrome {
         {
             System.out.println("It's Not a Palindrome");
         }
+
     }
 }
+
